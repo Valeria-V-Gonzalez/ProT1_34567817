@@ -5,9 +5,16 @@ body {
     margin: 0;
     padding: 0;
     }
-    
+
 .centrado-negrita-cursivo {
     text-align: center;
     font-weight: bold;
     font-style: italic;
+}
+
+.seccion-estilo {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    background-color: #f0f0f0;
 }
